@@ -13,10 +13,18 @@ Welcome to the LeetCode Top 150 Problems repository! This collection is designed
 ## Table of Contents
 
 1. [Merge Sorted Array](/problems/arrays-n-strings/mergeSortedArray/)
+
    - **Difficulty**: Easy
    - **Languages**:
      - [java](/problems/arrays-n-strings/mergeSortedArray/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/mergeSortedArray/TsVersion.ts)
+
+2. [Remove Element](/problems/arrays-n-strings/removeElement/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/removeElement/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/removeElement/TsVersion.ts)
 
 ## Contributing
 
