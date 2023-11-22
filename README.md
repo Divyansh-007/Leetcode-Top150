@@ -26,6 +26,13 @@ Welcome to the LeetCode Top 150 Problems repository! This collection is designed
      - [java](/problems/arrays-n-strings/removeElement/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/removeElement/TsVersion.ts)
 
+3. [Remove Duplicates from Sorted Array](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/TsVersion.ts)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
