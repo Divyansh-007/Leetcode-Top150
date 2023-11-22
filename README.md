@@ -12,6 +12,8 @@ Welcome to the LeetCode Top 150 Problems repository! This collection is designed
 
 ## Table of Contents
 
+a. **[Arrays and Strings](/problems/arrays-n-strings/)**
+
 1. [Merge Sorted Array](/problems/arrays-n-strings/mergeSortedArray/)
 
    - **Difficulty**: Easy
@@ -32,6 +34,14 @@ Welcome to the LeetCode Top 150 Problems repository! This collection is designed
    - **Languages**:
      - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/TsVersion.ts)
+
+b. **[Two Pointers](/problems/two-pointers/)**
+
+1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [cpp](/problems/two-pointers/validPalindrome/cppVersion.cpp)
 
 ## Contributing
 
