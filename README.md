@@ -42,6 +42,7 @@ b. **[Two Pointers](/problems/two-pointers/)**
    - **Difficulty**: Easy
    - **Languages**:
      - [cpp](/problems/two-pointers/validPalindrome/cppVersion.cpp)
+     - [java](/problems/two-pointers/validPalindrome/javaVersion.java)
 
 ## Contributing
 
