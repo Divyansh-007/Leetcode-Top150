@@ -35,6 +35,13 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
      - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/TsVersion.ts)
 
+4. [Majority Element](/problems/arrays-n-strings/majorityElement/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/majorityElement/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/majorityElement/TsVersion.ts)
+
 b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
