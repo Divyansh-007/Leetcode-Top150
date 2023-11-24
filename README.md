@@ -53,11 +53,18 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 2. [Is Subsequence](/problems/two-pointers/isSubsequence/)
 
-   - **Difficulty**: Easy
-   - **Languages**:
-     - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
-     - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
-     - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
+    - **Difficulty**: Easy
+    - **Languages**:
+      - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
+      - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
+      - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
+
+
+3. [Two Sum II - Input Array Is Sorted](/problems/two-pointers/twoSum2-InputArrayIsSorted/)
+
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
 
 ## Contributing
 
