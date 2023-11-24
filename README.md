@@ -57,6 +57,12 @@ b. **[Two Pointers](/problems/two-pointers/)**
     - **Languages**:
       - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
 
+3. [Two Sum II - Input Array Is Sorted](/problems/two-pointers/twoSum2-InputArrayIsSorted/)
+
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
+
 
 ## Contributing
 
