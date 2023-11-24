@@ -46,8 +46,8 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
 
-    - **Difficulty**: Easy
-    - **Languages**:
+   - **Difficulty**: Easy
+   - **Languages**:
      - [cpp](/problems/two-pointers/validPalindrome/cppVersion.cpp)
      - [java](/problems/two-pointers/validPalindrome/javaVersion.java)
 
@@ -56,13 +56,15 @@ b. **[Two Pointers](/problems/two-pointers/)**
     - **Difficulty**: Easy
     - **Languages**:
       - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
+      - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
+      - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
+
 
 3. [Two Sum II - Input Array Is Sorted](/problems/two-pointers/twoSum2-InputArrayIsSorted/)
 
     - **Difficulty**: Medium
     - **Languages**:
       - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
-
 
 ## Contributing
 
