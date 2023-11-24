@@ -46,17 +46,18 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
 
-    - **Difficulty**: Easy
-    - **Languages**:
+   - **Difficulty**: Easy
+   - **Languages**:
      - [cpp](/problems/two-pointers/validPalindrome/cppVersion.cpp)
      - [java](/problems/two-pointers/validPalindrome/javaVersion.java)
 
 2. [Is Subsequence](/problems/two-pointers/isSubsequence/)
 
-    - **Difficulty**: Easy
-    - **Languages**:
-      - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
-
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
+     - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
+     - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
 
 ## Contributing
 
