@@ -42,6 +42,13 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
      - [java](/problems/arrays-n-strings/majorityElement/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/majorityElement/TsVersion.ts)
 
+5. [Best Time To Buy and Sell Stock](/problems/arrays-n-strings/bestTimeToBuyNSellStock/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/bestTimeToBuyNSellStock/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/bestTimeToBuyNSellStock/TsVersion.ts)
+
 b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
@@ -53,18 +60,17 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 2. [Is Subsequence](/problems/two-pointers/isSubsequence/)
 
-    - **Difficulty**: Easy
-    - **Languages**:
-      - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
-      - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
-      - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
-
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [cpp](/problems/two-pointers/isSubsequence/cppVersion.cpp)
+     - [java](/problems/two-pointers/isSubsequence/javaVersion.java)
+     - [typescript](/problems/two-pointers/isSubsequence/TsVersion.ts)
 
 3. [Two Sum II - Input Array Is Sorted](/problems/two-pointers/twoSum2-InputArrayIsSorted/)
 
-    - **Difficulty**: Medium
-    - **Languages**:
-      - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
 
 ## Contributing
 
