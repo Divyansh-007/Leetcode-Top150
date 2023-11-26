@@ -49,6 +49,13 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
      - [java](/problems/arrays-n-strings/bestTimeToBuyNSellStock/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/bestTimeToBuyNSellStock/TsVersion.ts)
 
+6. [Roman To Integer](/problems/arrays-n-strings/romanToInteger/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/romanToInteger/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/romanToInteger/TsVersion.ts)
+
 b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
