@@ -56,6 +56,13 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
      - [java](/problems/arrays-n-strings/romanToInteger/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/romanToInteger/TsVersion.ts)
 
+7. [Length of Last Word](/problems/arrays-n-strings/lengthOfLastWord/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/lengthOfLastWord/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/lengthOfLastWord/TsVersion.ts)
+
 b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
