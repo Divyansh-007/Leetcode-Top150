@@ -63,6 +63,12 @@ b. **[Two Pointers](/problems/two-pointers/)**
     - **Languages**:
       - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
 
+4. [Container With Most Water](/problems/two-pointers/containerWithMostWater/)
+
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [cpp](/problems/two-pointers/containerWithMostWater/cppVersion.cpp)
+
 
 ## Contributing
 
