@@ -70,6 +70,13 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
      - [java](/problems/arrays-n-strings/longestCommonPrefix/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/longestCommonPrefix/TsVersion.ts)
 
+9. [Find the Index of the First Occurance in a String](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/javaVersion.java)
+     - [typescript](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/TsVersion.ts)
+
 b. **[Two Pointers](/problems/two-pointers/)**
 
 1. [Valid Palindrome](/problems/two-pointers/validPalindrome/)
