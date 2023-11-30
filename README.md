@@ -114,7 +114,7 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 c. **[HashMap](/problems/hashmap/)**
 
-1. [Valid Palindrome](/problems/hashmap/ransom-note/)
+1. [Ransom Note](/problems/hashmap/ransom-note/)
 
    - **Difficulty**: Easy
    - **Languages**:
