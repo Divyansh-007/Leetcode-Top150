@@ -72,6 +72,12 @@ b. **[Two Pointers](/problems/two-pointers/)**
     - **Languages**:
       - [cpp](/problems/two-pointers/containerWithMostWater/cppVersion.cpp)
 
+5. [3 Sum](/problems/two-pointers/3Sum/)
+
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [cpp](/problems/two-pointers/3Sum/cppVersion.cpp)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
