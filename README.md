@@ -108,9 +108,18 @@ b. **[Two Pointers](/problems/two-pointers/)**
 
 5. [3 Sum](/problems/two-pointers/3Sum/)
 
-    - **Difficulty**: Medium
-    - **Languages**:
-      - [cpp](/problems/two-pointers/3Sum/cppVersion.cpp)
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [cpp](/problems/two-pointers/3Sum/cppVersion.cpp)
+
+c. **[HashMap](/problems/hashmap/)**
+
+1. [Valid Palindrome](/problems/hashmap/ransom-note/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/ransom-note/javaVersion.java)
+     - [typescript](/problems/hashmap/ransom-note/TsVersion.ts)
 
 ## Contributing
 
