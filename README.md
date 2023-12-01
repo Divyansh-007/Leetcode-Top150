@@ -121,6 +121,12 @@ c. **[HashMap](/problems/hashmap/)**
      - [java](/problems/hashmap/ransom-note/javaVersion.java)
      - [typescript](/problems/hashmap/ransom-note/TsVersion.ts)
 
+2. [Isomorphic Strings](/problems/hashmap/isomorphicStrings/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/isomorphicStrings/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
