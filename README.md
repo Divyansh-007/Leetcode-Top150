@@ -134,6 +134,13 @@ c. **[HashMap](/problems/hashmap/)**
      - [java](/problems/hashmap/wordPattern/javaVersion.java)
      - [typescript](/problems/hashmap/wordPattern/TsVersion.ts)
 
+4. [Valid Anagram](/problems/hashmap/validAnagram/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/validAnagram/javaVersion.java)
+     - [typescript](/problems/hashmap/validAnagram/TsVersion.ts)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
