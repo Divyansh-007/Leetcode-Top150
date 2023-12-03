@@ -127,6 +127,13 @@ c. **[HashMap](/problems/hashmap/)**
    - **Languages**:
      - [java](/problems/hashmap/isomorphicStrings/javaVersion.java)
 
+3. [Word Pattern](/problems/hashmap/wordPattern/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/wordPattern/javaVersion.java)
+     - [typescript](/problems/hashmap/wordPattern/TsVersion.ts)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
