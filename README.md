@@ -120,12 +120,14 @@ c. **[HashMap](/problems/hashmap/)**
    - **Languages**:
      - [java](/problems/hashmap/ransom-note/javaVersion.java)
      - [typescript](/problems/hashmap/ransom-note/TsVersion.ts)
+     - [javascript](/problems/hashmap/ransom-note/jsVersion.js)
 
 2. [Isomorphic Strings](/problems/hashmap/isomorphicStrings/)
 
    - **Difficulty**: Easy
    - **Languages**:
      - [java](/problems/hashmap/isomorphicStrings/javaVersion.java)
+     - [javascript](/problems/hashmap/isomorphicStrings/jsVersion.js)
 
 3. [Word Pattern](/problems/hashmap/wordPattern/)
 
@@ -133,6 +135,7 @@ c. **[HashMap](/problems/hashmap/)**
    - **Languages**:
      - [java](/problems/hashmap/wordPattern/javaVersion.java)
      - [typescript](/problems/hashmap/wordPattern/TsVersion.ts)
+     - [javascript](/problems/hashmap/wordPattern/jsVersion.js)
 
 4. [Valid Anagram](/problems/hashmap/validAnagram/)
 
