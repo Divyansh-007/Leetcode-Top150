@@ -141,6 +141,13 @@ c. **[HashMap](/problems/hashmap/)**
      - [java](/problems/hashmap/validAnagram/javaVersion.java)
      - [typescript](/problems/hashmap/validAnagram/TsVersion.ts)
 
+5. [Two Sum](/problems/hashmap/two-sum/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/two-sum/javaVersion.java)
+     - [typescript](/problems/hashmap/two-sum/TsVersion.ts)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
