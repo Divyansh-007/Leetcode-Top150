@@ -151,6 +151,12 @@ c. **[HashMap](/problems/hashmap/)**
      - [java](/problems/hashmap/two-sum/javaVersion.java)
      - [typescript](/problems/hashmap/two-sum/TsVersion.ts)
 
+6. [Happy Number](/problems/hashmap/happyNumber/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/hashmap/happyNumber/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
