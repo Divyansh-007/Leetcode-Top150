@@ -143,6 +143,7 @@ c. **[HashMap](/problems/hashmap/)**
    - **Languages**:
      - [java](/problems/hashmap/validAnagram/javaVersion.java)
      - [typescript](/problems/hashmap/validAnagram/TsVersion.ts)
+     - [javascript](/problems/hashmap/validAnagram/jsVersion.js)
 
 5. [Two Sum](/problems/hashmap/two-sum/)
 
@@ -150,12 +151,27 @@ c. **[HashMap](/problems/hashmap/)**
    - **Languages**:
      - [java](/problems/hashmap/two-sum/javaVersion.java)
      - [typescript](/problems/hashmap/two-sum/TsVersion.ts)
+     - [javascript](/problems/hashmap/two-sum/jsVersion.js)
 
 6. [Happy Number](/problems/hashmap/happyNumber/)
 
    - **Difficulty**: Easy
    - **Languages**:
      - [java](/problems/hashmap/happyNumber/javaVersion.java)
+     - [javascript](/problems/hashmap/happyNumber/jsVersion.js)
+
+7. [Group Anagrams](/problems/hashmap/groupAnagrams/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/groupAnagrams/jsVersion.js)
+     
+8. [Contains Duplicate II](/problems/hashmap/containsDuplicate2/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [javascript](/problems/hashmap/containsDuplicate2/jsVersion.js)
+
 
 ## Contributing
 
