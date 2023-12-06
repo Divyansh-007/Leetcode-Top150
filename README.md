@@ -165,13 +165,14 @@ c. **[HashMap](/problems/hashmap/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [javascript](/problems/hashmap/groupAnagrams/jsVersion.js)
-     
+
 8. [Contains Duplicate II](/problems/hashmap/containsDuplicate2/)
 
    - **Difficulty**: Easy
    - **Languages**:
      - [javascript](/problems/hashmap/containsDuplicate2/jsVersion.js)
-
+     - [java](/problems/hashmap/containsDuplicate2/javaVersion.java)
+     - [typescript](/problems/hashmap/containsDuplicate2/TsVersion.ts)
 
 ## Contributing
 
