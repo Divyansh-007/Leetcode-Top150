@@ -176,6 +176,6 @@ c. **[HashMap](/problems/hashmap/)**
 
 ## Contributing
 
-If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
+If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
 
 Happy coding! 🚀
