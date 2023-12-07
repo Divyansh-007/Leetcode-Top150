@@ -176,31 +176,30 @@ c. **[HashMap](/problems/hashmap/)**
 
 d. **[Intervals](/problems/intervals/)**
 
-1. [Summary Ranges](/problems/hashmap/summaryRanges/)
+1. [Summary Ranges](/problems/intervals/summaryRanges/)
 
    - **Difficulty**: Easy
    - **Languages**:
-     - [javascript](/problems/hashmap/summaryRanges/jsVersion.js)
+     - [javascript](/problems/intervals/summaryRanges/jsVersion.js)
+     - [javas](/problems/intervals/summaryRanges/javaVersion.java)
 
-2. [Merge Intervals](/problems/hashmap/mergeIntervals/)
-
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/hashmap/mergeIntervals/jsVersion.js)
-
-3. [Insert Interval](/problems/hashmap/insertInterval/)
+2. [Merge Intervals](/problems/intervals/mergeIntervals/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/insertInterval/jsVersion.js)
+     - [javascript](/problems/intervals/mergeIntervals/jsVersion.js)
 
-4. [Minimum Number of Arrows to Burst Balloons](/problems/hashmap/minNumOfArrowToBusrtBalloons/)
+3. [Insert Interval](/problems/intervals/insertInterval/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/minNumOfArrowToBusrtBalloons/jsVersion.js)
+     - [javascript](/problems/intervals/insertInterval/jsVersion.js)
 
+4. [Minimum Number of Arrows to Burst Balloons](/problems/intervals/minNumOfArrowToBusrtBalloons/)
 
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/intervals/minNumOfArrowToBusrtBalloons/jsVersion.js)
 
 ## Contributing
 
