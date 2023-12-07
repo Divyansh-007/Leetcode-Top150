@@ -181,7 +181,7 @@ d. **[Intervals](/problems/intervals/)**
    - **Difficulty**: Easy
    - **Languages**:
      - [javascript](/problems/intervals/summaryRanges/jsVersion.js)
-     - [javas](/problems/intervals/summaryRanges/javaVersion.java)
+     - [java](/problems/intervals/summaryRanges/javaVersion.java)
 
 2. [Merge Intervals](/problems/intervals/mergeIntervals/)
 
