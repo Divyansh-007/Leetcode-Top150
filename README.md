@@ -174,6 +174,34 @@ c. **[HashMap](/problems/hashmap/)**
      - [java](/problems/hashmap/containsDuplicate2/javaVersion.java)
      - [typescript](/problems/hashmap/containsDuplicate2/TsVersion.ts)
 
+d. **[Intervals](/problems/intervals/)**
+
+1. [Summary Ranges](/problems/hashmap/summaryRanges/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [javascript](/problems/hashmap/summaryRanges/jsVersion.js)
+
+2. [Merge Intervals](/problems/hashmap/mergeIntervals/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/mergeIntervals/jsVersion.js)
+
+3. [Insert Interval](/problems/hashmap/insertInterval/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/insertInterval/jsVersion.js)
+
+4. [Minimum Number of Arrows to Burst Balloons](/problems/hashmap/minNumOfArrowToBusrtBalloons/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/minNumOfArrowToBusrtBalloons/jsVersion.js)
+
+
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
