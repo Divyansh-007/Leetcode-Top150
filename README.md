@@ -209,6 +209,14 @@ e. **[Stack](/problems/stack/)**
    - **Languages**:
      - [java](/problems/stack/validParentheses/javaVersion.java)
 
+f. **[Linked List](/problems/linkedlist/)**
+
+1. [Linked List Cycle](/problems/linkedlist/linkedlist-cycle)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/linkedlist/linkedlist-cycle/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
