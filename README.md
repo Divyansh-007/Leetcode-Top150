@@ -217,6 +217,12 @@ f. **[Linked List](/problems/linkedlist/)**
    - **Languages**:
      - [java](/problems/linkedlist/linkedlist-cycle/javaVersion.java)
 
+2. [Merge Two Sorted Lists](/problems/linkedlist/mergeTwo-sortedLists)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/linkedlist/mergeTwo-sortedLists/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
