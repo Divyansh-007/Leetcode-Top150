@@ -223,6 +223,14 @@ f. **[Linked List](/problems/linkedlist/)**
    - **Languages**:
      - [java](/problems/linkedlist/mergeTwo-sortedLists/javaVersion.java)
 
+g. **[Bit Manipulation](/problems/bit-manipulation/)**
+
+1. [Add Binary](/problems/bit-manipulation/addBinary)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/bit-manipulation/addBinary/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
