@@ -237,6 +237,14 @@ g. **[Bit Manipulation](/problems/bit-manipulation/)**
    - **Languages**:
      - [java](/problems/bit-manipulation/singleNumber/javaVersion.java)
 
+h. **[Maths](/problems/maths/)**
+
+1. [Palindrome Number](/problems/maths/palindrome-number)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/maths/palindrome-number/javaVersion.java)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
