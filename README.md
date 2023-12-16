@@ -84,27 +84,28 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
 
 10. [Best Time To Buy and Sell Stock 2](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
 
 11. [Jump Game](/problems/arrays-n-strings/jumpGame/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
 
 12. [Remove Duplicates from Sorted Array 2](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/jsVersion.js)
+  - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/javaVersion.java)
 
 13. [Rotate Array](/problems/arrays-n-strings/rotateArray/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
