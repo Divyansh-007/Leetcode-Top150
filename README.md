@@ -20,6 +20,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/mergeSortedArray/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/mergeSortedArray/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/mergeSortedArray/jsVersion.js)
 
 2. [Remove Element](/problems/arrays-n-strings/removeElement/)
 
@@ -27,6 +28,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/removeElement/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/removeElement/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/removeElement/jsVersion.js)
 
 3. [Remove Duplicates from Sorted Array](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/)
 
@@ -34,6 +36,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray/jsVersion.js)
 
 4. [Majority Element](/problems/arrays-n-strings/majorityElement/)
 
@@ -41,6 +44,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/majorityElement/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/majorityElement/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/majorityElement/jsVersion.js)
 
 5. [Best Time To Buy and Sell Stock](/problems/arrays-n-strings/bestTimeToBuyNSellStock/)
 
@@ -48,6 +52,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/bestTimeToBuyNSellStock/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/bestTimeToBuyNSellStock/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock/jsVersion.js)
 
 6. [Roman To Integer](/problems/arrays-n-strings/romanToInteger/)
 
@@ -76,6 +81,30 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/TsVersion.ts)
+
+10. [Best Time To Buy and Sell Stock 2](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
+
+11. [Jump Game](/problems/arrays-n-strings/jumpGame/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
+
+12. [Remove Duplicates from Sorted Array 2](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/jsVersion.js)
+
+13. [Rotate Array](/problems/arrays-n-strings/rotateArray/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
