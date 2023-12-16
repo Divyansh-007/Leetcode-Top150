@@ -60,6 +60,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/romanToInteger/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/romanToInteger/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/romanToInteger/jsVersion.js)
 
 7. [Length of Last Word](/problems/arrays-n-strings/lengthOfLastWord/)
 
@@ -67,6 +68,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/lengthOfLastWord/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/lengthOfLastWord/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/lengthOfLastWord/jsVersion.js)
 
 8. [Longest Common Prefix](/problems/arrays-n-strings/longestCommonPrefix/)
 
@@ -106,6 +108,18 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
 - **Difficulty**: Medium
 - **Languages**:
   - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
+
+14. [Integer to Roman](/problems/arrays-n-strings/integerToRoman/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
+
+15. [Reverse Words in a String](/problems/arrays-n-strings/reverseWordsInAString/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
