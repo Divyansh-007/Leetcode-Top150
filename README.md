@@ -110,30 +110,31 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
 - **Difficulty**: Medium
 - **Languages**:
   - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
+  - [java](/problems/arrays-n-strings/rotateArray/javaVersion.java)
 
 14. [Integer to Roman](/problems/arrays-n-strings/integerToRoman/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
 
 15. [Reverse Words in a String](/problems/arrays-n-strings/reverseWordsInAString/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
 
 16. [Zigzag Conversion](/problems/arrays-n-strings/zigzagConversion/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/zigzagConversion/jsVersion.js)     
+- **Difficulty**: Medium
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/zigzagConversion/jsVersion.js)
 
 17. [Text Justification](/problems/arrays-n-strings/textJustification/)
 
-   - **Difficulty**: Hard
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/textJustification/jsVersion.js)   
+- **Difficulty**: Hard
+- **Languages**:
+  - [javascript](/problems/arrays-n-strings/textJustification/jsVersion.js)
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
