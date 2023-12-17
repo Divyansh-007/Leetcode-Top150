@@ -76,6 +76,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/longestCommonPrefix/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/longestCommonPrefix/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/longestCommonPrefix/jsVersion.js)
 
 9. [Find the Index of the First Occurance in a String](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/)
 
@@ -83,6 +84,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Languages**:
      - [java](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/javaVersion.java)
      - [typescript](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/TsVersion.ts)
+     - [javascript](/problems/arrays-n-strings/findTheIndexOfTheFirstOccurrenceInAString/jsVersion.js)
 
 10. [Best Time To Buy and Sell Stock 2](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/)
 
@@ -120,6 +122,18 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
+
+16. [Zigzag Conversion](/problems/arrays-n-strings/zigzagConversion/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/zigzagConversion/jsVersion.js)     
+
+17. [Text Justification](/problems/arrays-n-strings/textJustification/)
+
+   - **Difficulty**: Hard
+   - **Languages**:
+     - [javascript](/problems/arrays-n-strings/textJustification/jsVersion.js)   
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
