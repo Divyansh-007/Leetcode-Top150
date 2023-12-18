@@ -316,6 +316,32 @@ h. **[Maths](/problems/maths/)**
    - **Languages**:
      - [java](/problems/maths/sqrt/javaVersion.java)
 
+i. **[Matrix](/problems/matrix/)**
+
+1. [Rotate Image](/problems/hashmap/rotateImage/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/rotateImage/jsVersion.js)
+  
+2. [Set Matrix Zeros](/problems/hashmap/setMatrixZeros/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/setMatrixZeros/jsVersion.js)
+
+3. [Spiral Matrix](/problems/hashmap/spiralMatrix/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/spiralMatrix/jsVersion.js)
+
+4. [Valid Sudoku](/problems/hashmap/validSudoku/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/hashmap/validSudoku/jsVersion.js)
+
 ## Contributing
 
 If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
