@@ -91,6 +91,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
     - **Difficulty**: Medium
     - **Languages**:
       - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
+      - [java](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/javaVersion.java)
 
 11. [Jump Game](/problems/arrays-n-strings/jumpGame/)
 
@@ -323,7 +324,7 @@ i. **[Matrix](/problems/matrix/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [javascript](/problems/hashmap/rotateImage/jsVersion.js)
-  
+
 2. [Set Matrix Zeros](/problems/hashmap/setMatrixZeros/)
 
    - **Difficulty**: Medium
