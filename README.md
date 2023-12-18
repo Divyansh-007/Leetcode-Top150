@@ -88,51 +88,53 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
 
 10. [Best Time To Buy and Sell Stock 2](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/bestTimeToBuyNSellStock2/jsVersion.js)
 
 11. [Jump Game](/problems/arrays-n-strings/jumpGame/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+    - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
 
 12. [Remove Duplicates from Sorted Array 2](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/jsVersion.js)
+      - [java](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/javaVersion.java)
 
 13. [Rotate Array](/problems/arrays-n-strings/rotateArray/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/rotateArray/jsVersion.js)
+      - [java](/problems/arrays-n-strings/rotateArray/javaVersion.java)
 
 14. [Integer to Roman](/problems/arrays-n-strings/integerToRoman/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
 
 15. [Reverse Words in a String](/problems/arrays-n-strings/reverseWordsInAString/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
 
 16. [Zigzag Conversion](/problems/arrays-n-strings/zigzagConversion/)
 
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/zigzagConversion/jsVersion.js)     
+    - **Difficulty**: Medium
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/zigzagConversion/jsVersion.js)
 
 17. [Text Justification](/problems/arrays-n-strings/textJustification/)
 
-   - **Difficulty**: Hard
-   - **Languages**:
-     - [javascript](/problems/arrays-n-strings/textJustification/jsVersion.js)   
+    - **Difficulty**: Hard
+    - **Languages**:
+      - [javascript](/problems/arrays-n-strings/textJustification/jsVersion.js)
 
 b. **[Two Pointers](/problems/two-pointers/)**
 
@@ -222,42 +224,99 @@ c. **[HashMap](/problems/hashmap/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [javascript](/problems/hashmap/groupAnagrams/jsVersion.js)
-     
+
 8. [Contains Duplicate II](/problems/hashmap/containsDuplicate2/)
 
    - **Difficulty**: Easy
    - **Languages**:
      - [javascript](/problems/hashmap/containsDuplicate2/jsVersion.js)
-
+     - [java](/problems/hashmap/containsDuplicate2/javaVersion.java)
+     - [typescript](/problems/hashmap/containsDuplicate2/TsVersion.ts)
 
 d. **[Intervals](/problems/intervals/)**
 
-1. [Summary Ranges](/problems/hashmap/summaryRanges/)
+1. [Summary Ranges](/problems/intervals/summaryRanges/)
 
    - **Difficulty**: Easy
    - **Languages**:
-     - [javascript](/problems/hashmap/summaryRanges/jsVersion.js)
+     - [javascript](/problems/intervals/summaryRanges/jsVersion.js)
+     - [java](/problems/intervals/summaryRanges/javaVersion.java)
 
-2. [Merge Intervals](/problems/hashmap/mergeIntervals/)
-
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/hashmap/mergeIntervals/jsVersion.js)
-
-3. [Insert Interval](/problems/hashmap/insertInterval/)
+2. [Merge Intervals](/problems/intervals/mergeIntervals/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/insertInterval/jsVersion.js)
+     - [javascript](/problems/intervals/mergeIntervals/jsVersion.js)
 
-4. [Minimum Number of Arrows to Burst Balloons](/problems/hashmap/minNumOfArrowToBusrtBalloons/)
+3. [Insert Interval](/problems/intervals/insertInterval/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/minNumOfArrowToBusrtBalloons/jsVersion.js)
+     - [javascript](/problems/intervals/insertInterval/jsVersion.js)
 
+4. [Minimum Number of Arrows to Burst Balloons](/problems/intervals/minNumOfArrowToBusrtBalloons/)
 
-e. **[Matrix](/problems/matrix/)**
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/intervals/minNumOfArrowToBusrtBalloons/jsVersion.js)
+
+e. **[Stack](/problems/stack/)**
+
+1. [Valid Parentheses](/problems/stack/validParentheses/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/stack/validParentheses/javaVersion.java)
+
+f. **[Linked List](/problems/linkedlist/)**
+
+1. [Linked List Cycle](/problems/linkedlist/linkedlist-cycle)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/linkedlist/linkedlist-cycle/javaVersion.java)
+
+2. [Merge Two Sorted Lists](/problems/linkedlist/mergeTwo-sortedLists)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/linkedlist/mergeTwo-sortedLists/javaVersion.java)
+
+g. **[Bit Manipulation](/problems/bit-manipulation/)**
+
+1. [Add Binary](/problems/bit-manipulation/addBinary)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/bit-manipulation/addBinary/javaVersion.java)
+
+2. [Single Number](/problems/bit-manipulation/singleNumber)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/bit-manipulation/singleNumber/javaVersion.java)
+
+h. **[Maths](/problems/maths/)**
+
+1. [Palindrome Number](/problems/maths/palindrome-number)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/maths/palindrome-number/javaVersion.java)
+
+2. [Plus One](/problems/maths/plusOne)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/maths/plusOne/javaVersion.java)
+
+3. [Sqrt(x)](/problems/maths/sqrt)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [java](/problems/maths/sqrt/javaVersion.java)
+
+i. **[Matrix](/problems/matrix/)**
 
 1. [Rotate Image](/problems/hashmap/rotateImage/)
 
@@ -283,9 +342,8 @@ e. **[Matrix](/problems/matrix/)**
    - **Languages**:
      - [javascript](/problems/hashmap/validSudoku/jsVersion.js)
 
-
 ## Contributing
 
-If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [CONTRIBUTING.md](/CONTRIBUTING.md).
+If you'd like to contribute to this repository by adding new problems, improving existing solutions, or fixing issues, please follow the guidelines outlined in [README.md](/README.md).
 
 Happy coding! 🚀

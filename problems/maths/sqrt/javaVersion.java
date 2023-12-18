@@ -1,0 +1,17 @@
+class Solution {
+    public int mySqrt(int x) {
+        if(x <= 1){
+            return x;
+        }
+
+        int i = 1;
+        
+        for(;i <= x/i; i++){
+            if(i * i == x){
+                return i;
+            }
+        }
+
+        return i - 1;
+    }
+}
