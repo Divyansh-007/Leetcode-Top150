@@ -259,29 +259,70 @@ d. **[Intervals](/problems/intervals/)**
 
 e. **[Matrix](/problems/matrix/)**
 
-1. [Rotate Image](/problems/hashmap/rotateImage/)
+1. [Rotate Image](/problems/matrix/rotateImage/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/rotateImage/jsVersion.js)
+     - [javascript](/problems/matrix/rotateImage/jsVersion.js)
   
-2. [Set Matrix Zeros](/problems/hashmap/setMatrixZeros/)
+2. [Set Matrix Zeros](/problems/matrix/setMatrixZeros/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/setMatrixZeros/jsVersion.js)
+     - [javascript](/problems/matrix/setMatrixZeros/jsVersion.js)
 
-3. [Spiral Matrix](/problems/hashmap/spiralMatrix/)
-
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/hashmap/spiralMatrix/jsVersion.js)
-
-4. [Valid Sudoku](/problems/hashmap/validSudoku/)
+3. [Spiral Matrix](/problems/matrix/spiralMatrix/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/validSudoku/jsVersion.js)
+     - [javascript](/problems/matrix/spiralMatrix/jsVersion.js)
+
+4. [Valid Sudoku](/problems/matrix/validSudoku/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/matrix/validSudoku/jsVersion.js)
+
+5. [Game of Life](/problems/matrix/gameOfLike/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/matrix/gameOfLike/jsVersion.js)
+
+
+f. **[Math](/problems/math/)**
+
+1. [Factorial Trailing Zeros](/problems/math/factorialTrailingZeros/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/math/factorialTrailingZeros/jsVersion.js)
+
+2. [Palindrome Number](/problems/math/palindromeNumber/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [javascript](/problems/math/palindromeNumber/jsVersion.js)
+
+3. [Plus One](/problems/math/plusOne/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [javascript](/problems/math/plusOne/jsVersion.js)
+
+4. [Pow(x, n)](/problems/math/pow(x,n)/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/math/pow(x,n)/jsVersion.js)
+
+5. [Pow(x, n)](/problems/math/sqrt(x)/)
+
+   - **Difficulty**: Easy
+   - **Languages**:
+     - [javascript](/problems/math/sqrt(x)/jsVersion.js)
+  
+  
 
 
 ## Contributing
