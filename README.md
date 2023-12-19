@@ -97,8 +97,8 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
 
     - **Difficulty**: Medium
     - **Languages**:
-    - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
-    - [java](/problems/arrays-n-strings/jumpGame/javaVersion.java)
+      - [javascript](/problems/arrays-n-strings/jumpGame/jsVersion.js)
+      - [java](/problems/arrays-n-strings/jumpGame/javaVersion.java)
 
 12. [Remove Duplicates from Sorted Array 2](/problems/arrays-n-strings/removeDuplicatesFromSortedArray2/)
 
