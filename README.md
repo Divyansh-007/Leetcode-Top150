@@ -125,6 +125,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
     - **Difficulty**: Medium
     - **Languages**:
       - [javascript](/problems/arrays-n-strings/reverseWordsInAString/jsVersion.js)
+      - [java](/problems/arrays-n-strings/reverseWordsInAString/javaVersion.java)
 
 16. [Zigzag Conversion](/problems/arrays-n-strings/zigzagConversion/)
 
