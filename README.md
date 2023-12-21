@@ -119,6 +119,7 @@ a. **[Arrays and Strings](/problems/arrays-n-strings/)**
     - **Difficulty**: Medium
     - **Languages**:
       - [javascript](/problems/arrays-n-strings/integerToRoman/jsVersion.js)
+      - [java](/problems/arrays-n-strings/integerToRoman/javaVersion.java)
 
 15. [Reverse Words in a String](/problems/arrays-n-strings/reverseWordsInAString/)
 
