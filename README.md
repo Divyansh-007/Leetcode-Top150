@@ -162,6 +162,7 @@ b. **[Two Pointers](/problems/two-pointers/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [cpp](/problems/two-pointers/twoSum2-InputArrayIsSorted/cppVersion.cpp)
+     - [java](/problems/two-pointers/twoSum2-InputArrayIsSorted/javaVersion.java)
 
 4. [Container With Most Water](/problems/two-pointers/containerWithMostWater/)
 
