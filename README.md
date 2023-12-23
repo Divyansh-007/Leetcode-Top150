@@ -323,29 +323,30 @@ h. **[Maths](/problems/maths/)**
 
 i. **[Matrix](/problems/matrix/)**
 
-1. [Rotate Image](/problems/hashmap/rotateImage/)
+1. [Rotate Image](/problems/matrix/rotateImage/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/rotateImage/jsVersion.js)
+     - [javascript](/problems/matrix/rotateImage/jsVersion.js)
+     - [java](/problems/matrix/rotateImage/javaVersion.java)
 
-2. [Set Matrix Zeros](/problems/hashmap/setMatrixZeros/)
-
-   - **Difficulty**: Medium
-   - **Languages**:
-     - [javascript](/problems/hashmap/setMatrixZeros/jsVersion.js)
-
-3. [Spiral Matrix](/problems/hashmap/spiralMatrix/)
+2. [Set Matrix Zeros](/problems/matrix/setMatrixZeros/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/spiralMatrix/jsVersion.js)
+     - [javascript](/problems/matrix/setMatrixZeros/jsVersion.js)
 
-4. [Valid Sudoku](/problems/hashmap/validSudoku/)
+3. [Spiral Matrix](/problems/matrix/spiralMatrix/)
 
    - **Difficulty**: Medium
    - **Languages**:
-     - [javascript](/problems/hashmap/validSudoku/jsVersion.js)
+     - [javascript](/problems/matrix/spiralMatrix/jsVersion.js)
+
+4. [Valid Sudoku](/problems/matrix/validSudoku/)
+
+   - **Difficulty**: Medium
+   - **Languages**:
+     - [javascript](/problems/matrix/validSudoku/jsVersion.js)
 
 ## Contributing
 
