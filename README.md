@@ -229,6 +229,7 @@ c. **[HashMap](/problems/hashmap/)**
    - **Difficulty**: Medium
    - **Languages**:
      - [javascript](/problems/hashmap/groupAnagrams/jsVersion.js)
+     - [java](/problems/hashmap/groupAnagrams/javaVersion.java)
 
 8. [Contains Duplicate II](/problems/hashmap/containsDuplicate2/)
 
