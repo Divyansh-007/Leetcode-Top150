@@ -288,6 +288,12 @@ f. **[Linked List](/problems/linkedlist/)**
    - **Languages**:
      - [java](/problems/linkedlist/mergeTwo-sortedLists/javaVersion.java)
 
+3. [Add Two Numbers](/problems/linkedlist/addTwo-numbers)
+
+   - **Difficulty**: <span style="color: yellow;">Medium</span>
+   - **Languages**:
+     - [java](/problems/linkedlist/addTwo-numbers/javaVersion.java)
+
 g. **[Bit Manipulation](/problems/bit-manipulation/)**
 
 1. [Add Binary](/problems/bit-manipulation/addBinary)
