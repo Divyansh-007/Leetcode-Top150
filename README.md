@@ -290,7 +290,7 @@ f. **[Linked List](/problems/linkedlist/)**
 
 3. [Add Two Numbers](/problems/linkedlist/addTwo-numbers)
 
-   - **Difficulty**: <span style="color: yellow;">Medium</span>
+   - **Difficulty**: Medium
    - **Languages**:
      - [java](/problems/linkedlist/addTwo-numbers/javaVersion.java)
 
